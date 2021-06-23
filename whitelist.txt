@@ -14,4 +14,4 @@ Twitter
 Wikipedia
 Youtube
 Vk
-BlizzardNewsBridge
+BlizzardNews
